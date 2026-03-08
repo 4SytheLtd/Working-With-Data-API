@@ -34,6 +34,20 @@
       "description": "You can't go wrong with this delicious lemon dessert!",
       "image": "lemonDessert.jpg",
       "category": "desserts"      
+    },
+    {
+     "name": "Pipsi",
+      "price": 0.99,
+      "description": "You can't go wrong with Pipsi!",
+      "image": "pipsi.jpg",
+      "category": "drinks"
+    },
+    {
+     "name": "A specialty",
+      "price": 21.99,
+      "description": "Dayz inspired ",
+      "image": "hoomansteak.jpg",
+      "category": "specialties"
     }
   ]
 }
